@@ -1,6 +1,6 @@
 # AIxD
 
-*NOTE* Used Gemini for grammar & flow, ideas & content from Cole.
+<i><b>NOTE</b>: Used Gemini for grammar & flow, ideas & content from Cole. </i>
 
 <b>Tool Selection & Justification</b>
 - Tool: Claude Code (CLI) running within VS Code.
